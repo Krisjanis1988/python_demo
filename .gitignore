@@ -1,0 +1,6 @@
+python-virtual-environments/
+.vscode
+__pycache__
+migrations/
+query.txt
+start.txt
